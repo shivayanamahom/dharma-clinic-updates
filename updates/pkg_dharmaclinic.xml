@@ -6,12 +6,12 @@
 		<element>pkg_dharmaclinic</element>
 		<type>package</type>
 		<client>site</client>
-		<version>0.2.2</version>
-		<infourl title="Dharma Clinic 0.2.2">https://github.com/shivayanamahom/dharma-clinic-updates/releases/tag/v0.2.2</infourl>
+		<version>0.2.3</version>
+		<infourl title="Dharma Clinic 0.2.3">https://github.com/shivayanamahom/dharma-clinic-updates/releases/tag/v0.2.3</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-clinic-updates/releases/download/v0.2.2/pkg_dharmaclinic-0.2.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/shivayanamahom/dharma-clinic-updates/releases/download/v0.2.3/pkg_dharmaclinic-0.2.3.zip</downloadurl>
 		</downloads>
-		<sha256>cbf85778224e0c35b3483a7e8b9420bd645c7305c40b731c92a81b4e13fb83da</sha256>
+		<sha256>79a1335ce5506ea5140234340706252e6be22dbf0db73d73290d9ed6c08e30c8</sha256>
 		<tags>
 			<tag>stable</tag>
 		</tags>
